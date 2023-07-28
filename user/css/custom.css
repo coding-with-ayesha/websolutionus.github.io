@@ -1,0 +1,83 @@
+.wsus__login_form {
+    padding: 30px !important;
+}
+
+.wsus__single_testi_text span a {
+    color: #0A547A !important;
+}
+
+.wsus__shop_text {
+    padding: 20px 0px;
+}
+
+.wsus__shop_text .title {
+    margin: 0px 20px 15px 20px;
+}
+
+.wsus__shop_text .details {
+    margin: 0px 20px 20px 20px;
+}
+
+.wsus__shop_footer {
+    border-top: 1px solid #ddd;
+    padding: 20px 20px 0px 20px;
+    flex-wrap: wrap;
+}
+
+.wsus__shop_footer a {
+    margin: 3px 0px;
+}
+
+.wsus__shop_footer .technology {
+    font-size: 13px;
+    border: 1px solid #d33;
+    padding-right: 10px;
+    border-radius: 3px;
+    color: #d33;
+    font-weight: 600;
+}
+
+.wsus__shop_footer .technology span {
+    font-weight: 900;
+    display: inline-block;
+    background: none !important;
+    color: #d33;
+    border-radius: 0;
+    font-size: 13px;
+    margin: 0 5px 0px 0px;
+    border-right: 1px solid #d33;
+    height: 30px;
+    line-height: 30px;
+    width: 30px;
+    padding: 0;
+    text-align: center;
+}
+
+.wsus__shop_footer .category {
+    color: #0A547A;
+    border-color: #0A547A;
+}
+
+.wsus__shop_footer .category span {
+    border-color: #0A547A;
+}
+
+.wsus__shop_footer .category i {
+    color: #0A547A;
+}
+
+.shop_det_price h3 {
+    margin-top: 25px;
+    text-transform: unset;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+}
+
+.tst {
+    display: inline-table !important;
+}
+
+.tst-block {
+    display: block !important;
+}
